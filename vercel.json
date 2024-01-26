@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    {"source": "/admin/", "destination": "https://www.web3event.org/map"}
-  ]
-}
